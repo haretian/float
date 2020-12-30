@@ -1,9 +1,9 @@
-## float suite 
+## Float Suite 
 A custom created rainmeter suite.
 
 ![preview](https://github.com/haretian/float/blob/main/preview.png)
 
-### features
+### Features
 **-** Clock
 \
 **-** Date
@@ -17,7 +17,7 @@ A custom created rainmeter suite.
 **-** Visualizer
 
 
-### player & plugin information
+### Player & Plugin Information
 Can support browser through WebNowPlaying:
 \
 https://github.com/tjhrulz/WebNowPlaying
@@ -28,7 +28,7 @@ https://github.com/khanhas/spicetify-cli
 
 ---
 
-### credits
+### Credits
 Wallpaper art by: [みつきさなぎ](https://www.pixiv.net/en/users/3995840)
 \
 https://www.pixiv.net/en/artworks/57854712
