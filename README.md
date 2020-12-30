@@ -4,12 +4,17 @@ A custom created rainmeter suite.
 ![preview](https://github.com/haretian/sea-street-suite/blob/main/preview.png)
 
 ### Features
-- Clock
-- Date
-- Media Display
-- Media Player
-- Integrated Progress Bar
-- Visualizer
+**-** Clock
+\
+**-** Date
+\
+**-** Media Display
+\
+**-** Media Player
+\
+**-** Integrated Progress Bar
+\
+**-** Visualizer
 
 
 ### Player & Plugin Information
