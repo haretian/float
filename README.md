@@ -1,5 +1,5 @@
 ## Float Suite 
-A custom created rainmeter suite.
+A custom created suite for rainmeter.
 
 ![preview](https://github.com/haretian/float/blob/main/preview.png)
 
