@@ -1,9 +1,9 @@
-## Sea Street Suite
+## float suite 
 A custom created rainmeter suite.
 
-![preview](https://github.com/haretian/sea-street-suite/blob/main/preview.png)
+![preview](https://github.com/haretian/float/blob/main/preview.png)
 
-### Features
+### features
 **-** Clock
 \
 **-** Date
@@ -17,7 +17,7 @@ A custom created rainmeter suite.
 **-** Visualizer
 
 
-### Player & Plugin Information
+### player & plugin information
 Can support browser through WebNowPlaying:
 \
 https://github.com/tjhrulz/WebNowPlaying
@@ -28,7 +28,7 @@ https://github.com/khanhas/spicetify-cli
 
 ---
 
-### Credits
+### credits
 Wallpaper art by: [みつきさなぎ](https://www.pixiv.net/en/users/3995840)
 \
 https://www.pixiv.net/en/artworks/57854712
