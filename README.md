@@ -8,7 +8,7 @@ A custom created suite for rainmeter.
 \
 **-** Date
 \
-**-** Media Display
+**-** Track Info
 \
 **-** Media Player
 \
