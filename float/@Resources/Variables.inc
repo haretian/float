@@ -3,11 +3,11 @@
 ; ----------------------------------------- Media Player
 
 Plugin=	Web
-; NowPlaying - Spotify - Web - GPDMP
+; NowPlaying - Web - GPDMP
 
 Player=	AIMP
-; AIMP - iTunes - Spotify - Winamp - WMP - CAD (Foobar & Musicbee)
-; Only applicable if using the NowPlaying / Spotify plugins
+; AIMP - Winamp - WMP - CAD (Foobar & Musicbee)
+; Only applicable if using the NowPlaying plugins
 
 ; ------------------------------------------ General
 
